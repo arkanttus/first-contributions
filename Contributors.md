@@ -5011,3 +5011,4 @@
 - [Michael Santana](https://github.com/santanamichael211)
 - [Lin Yang](https://github.com/darktef)
 - [Hermes Autran](https://github.com/hrmsautran)
+- [Italo] (https://github.com/arkanttus)
